@@ -1,2 +1,2 @@
 # GCI-Python-1
-My first code for google code in python
+My codes for google code in python task(CCExtractor Development)
